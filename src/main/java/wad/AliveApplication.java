@@ -11,14 +11,14 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/arkuar/wepa4.4";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/arkuar/wepa4.4";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://web-palv4.herokuapp.com/";
     }
 }
